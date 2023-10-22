@@ -17,8 +17,8 @@ namespace Tyuiu.PaulikKV.Sprint3.Task2.V30
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Алгоритмы циклической структуры  C#                               *");
-            Console.WriteLine("* Задание #1                                                              *");
-            Console.WriteLine("* Вариант #25                                                             *");
+            Console.WriteLine("* Задание #2                                                              *");
+            Console.WriteLine("* Вариант #30                                                             *");
             Console.WriteLine("* Выполнил: Паулик Кирилл Владимирович | АСОиУб-23-3                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
